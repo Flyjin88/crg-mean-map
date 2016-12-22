@@ -1,3 +1,7 @@
+## Site
+
+https://crg-mean-map.herokuapp.com
+
 ## Instructions to run locally
 
 1) Clone repository and download npm packages
